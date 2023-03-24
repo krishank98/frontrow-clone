@@ -1,0 +1,11 @@
+.root .sidebar{
+    height: 100vh;
+}
+.sidebar-list ul li{
+    padding: 10px 0;
+    border-bottom: 1px solid blue;
+    cursor: pointer;
+}
+.abc{
+    display:none;
+}
